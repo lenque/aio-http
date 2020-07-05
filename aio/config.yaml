@@ -1,0 +1,4 @@
+project_name: '"IO awesome"'
+db: postgresql://aiouser:password@172.17.0.1:5432/aio_db
+
+#db: postgresql://aiouser:password@127.0.0.1:5432/aio_db
